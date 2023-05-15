@@ -4,4 +4,4 @@
 
 layout: home
 ---
-<iframe width="100%" height="800" src="https://periodpin.shinyapps.io/mapDemo/" frameborder="0" allowfullscreen="1"> </iframe>
+<iframe width="100%" height="800" src="https://periodpin.shinyapps.io/mapDemo/" frameborder="0" allowfullscreen="1" allow='*'> </iframe>
