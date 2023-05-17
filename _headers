@@ -1,0 +1,2 @@
+/
+	Feature-Policy: geolocation 'self' https://periodpin.shinyapps.io;
