@@ -28,10 +28,11 @@ instagram_username: periodpin
 twitter_username: PeriodPin
 facebook_username: period.pin
 
-include: [_headers]
+
 
 # Build settings
 theme: minima
+include: _headers
 plugins:
   - jekyll-feed
 

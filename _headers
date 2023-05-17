@@ -1,2 +1,2 @@
-/
-	Feature-Policy: geolocation 'self' https://periodpin.shinyapps.io;
+/*
+	Feature-Policy: geolocation 'self' "https://periodpin.shinyapps.io" "https://periodpin.github.io";
