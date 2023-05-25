@@ -11,4 +11,4 @@ The Period Pin team consists of Karen Farley (they/their) the menstrual expert, 
 
 Follow us on social media at @PeriodPin on [Instagram](https://instagram.com/periodpin), [Facebook](https://www.facebook.com/period.pin), and [LinkedIn](https://www.linkedin.com/company/periodpin). Check out a beta version of the [Period Pin map](https://periodpin.ca).
 
-
+© Period Pin, 2023. All rights reserved.
