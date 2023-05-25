@@ -4,9 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Period Pin is a social enterprise dedicated to helping Canadians find free menstrual products near them. Menstruators can visit our website, where they'll see a map of their area with the nearest locations for free period products. These might be public washrooms, community centers, or businesses that have all agreed to appear on the map.
+Period Pin is dedicated to helping Canadians find free menstrual products near them. Menstruators can visit our online map to find their nearest locations for free period products. These might be public washrooms, community centers, or businesses that have all agreed to appear on the map.
 
-Our team at Period Pin consists of Karen the menstrual expert, a soon-to-be published author and researcher on sustainable menstruation; and Patrick the tech expert, with experience in data science and visualizations. Together, we bring the skills and passion needed to make Period Pin a success. 
+The Period Pin team consists of Karen Farley (they/their) the menstrual expert, a researcher and soon-to-be published author on sustainable menstruation; and Patrick Bosworth (he/him) the tech expert, with experience in data science and visualizations. Based in Waterloo, Karen and Patrick created Period Pin with the support of the GreenHouse social impact incubator while completing the Masters in Environmental Studies, Sustainability Management program at the University of Waterloo.
 
-Follow us on Instagram: [Period Pin](https://instagram.com/periodpin)
+
+Follow us on social media at @PeriodPin on [Instagram](https://instagram.com/periodpin), [Facebook](https://www.facebook.com/period.pin), and [LinkedIn](https://www.linkedin.com/company/periodpin). Check out a beta version of the [Period Pin map](https://periodpin.ca).
+
 
