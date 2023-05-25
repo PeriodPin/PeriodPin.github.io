@@ -5,5 +5,6 @@
 layout: home
 ---
 <iframe width="100%" height="800" src="https://periodpin.shinyapps.io/mapDemo/" frameborder="0" allowfullscreen="1" allow="geolocation *"> </iframe>
-=======
+
+<br>
 © Period Pin, 2023. All rights reserved.
