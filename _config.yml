@@ -35,6 +35,7 @@ theme: minima
 include: _headers
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 #minima:
 #  - { platform: instagram,      user_url: "https://www.instagram.com/periodpin" }
 #  - { platform: facebook,       user_url: "https://www.facebook.com/period.pin" }
