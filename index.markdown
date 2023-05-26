@@ -4,7 +4,7 @@
 
 layout: home
 ---
-<iframe frameborder="0" style="overflow:hidden;height:100vh;width:100%;" src="https://periodpin.shinyapps.io/mapDemo/" frameborder="0" allowfullscreen="1" allow="geolocation *"> </iframe>
+<iframe frameborder="0" style="overflow:hidden;height:95vh;width:100%;" src="https://periodpin.shinyapps.io/mapDemo/" frameborder="0" allowfullscreen="1" allow="geolocation *"> </iframe>
 
 <br>
 © Period Pin, 2023. All rights reserved.
