@@ -8,15 +8,17 @@ permalink: /jobs/
 
 Period Pin is mapping locations of free menstrual products across Canada, starting with a pilot in the Waterloo Region. We are looking for a Partnerships Associate to build relationships with community organisations and private businesses to identify locations of free menstrual products.
 
+
 ### Duties & Responsibilities
 
 - Identify and contact potential community and business partners to:
-  - Collect information from partners on locations of free menstrual products
-  - Promote the map to partners serving menstruators within the community
+    - Collect information from partners on locations of free menstrual products
+    - Promote the map to partners serving menstruators within the community
 - Keep partnership records on CRM system
 - Coordinate promotion of new partner locations with our Social Media Associate
 - Maintain positive relationships with community and business partners
 - Collaborate in planning partnership growth with founder
+
 
 ### Qualifications
 
@@ -27,17 +29,20 @@ Period Pin is mapping locations of free menstrual products across Canada, starti
 - Strongly detail-oriented
 - Ability and willingness to work independently
 
+
 ### Time Commitment
 
 - From July 2023 with a 6 month contract
 - 16 hours per month, some availability during standard working hours for partner meetings
 - Remote work
 
+
 ### Compensation
 
 - $20 per hour
 
-Email Period Pin co-founder [Karen](mailto:karen@periodpin.ca) with a brief introduction and either a resume or LinkedIn profile which shows you meets the required skills for the role.
+
+Email Period Pin co-founder [Karen](mailto:findfreeproducts@periodpin.ca) with a brief introduction and either a resume or LinkedIn profile which shows you meets the required skills for the role.
 
 If you are interviewed, you will be asked to share previous community relations and/or sales projects you have worked on.
 
