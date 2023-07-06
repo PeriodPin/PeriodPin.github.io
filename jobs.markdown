@@ -12,8 +12,8 @@ Period Pin is mapping locations of free menstrual products across Canada, starti
 ### Duties & Responsibilities
 
 - Identify and contact potential community and business partners to:
-    - Collect information from partners on locations of free menstrual products
-    - Promote the map to partners serving menstruators within the community
+  &nbsp;&nbsp;- Collect information from partners on locations of free menstrual products
+  &nbsp;&nbsp;- Promote the map to partners serving menstruators within the community
 - Keep partnership records on CRM system
 - Coordinate promotion of new partner locations with our Social Media Associate
 - Maintain positive relationships with community and business partners
